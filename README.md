@@ -16,4 +16,4 @@ Version 0.1.0 (2021/10/18)
         -s INT    The sample size in Gibbs sampling. [default: 200]
 
 ## Reference
-Tsukasa Fukunaga and Wataru Iwasaki. "Inverse Potts model improves accuracy of phylogenetic profiling." Bioinformatics Advances, vbab014.
+Tsukasa Fukunaga and Wataru Iwasaki. "Inverse Potts model improves accuracy of phylogenetic profiling." under submission.
